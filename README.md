@@ -1,4 +1,6 @@
 go-euler
 ========
 
-Solving Project Euler in Go
+Solution to Project Euler problems in GO Programming Language
+
+## Problems
